@@ -1,5 +1,7 @@
 db/app.db
 
+.env
+
 # compiled output
 /dist
 /node_modules
