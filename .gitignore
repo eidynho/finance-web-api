@@ -1,11 +1,13 @@
-db/app.db
+# environment
+db/*.db
 .env
-
-db/test.db
 .env.test
 
 # compiled output
+/build
 /dist
+
+# dependencies
 /node_modules
 
 # Logs
